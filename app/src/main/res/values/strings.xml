@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Animotion</string>prompt
+    <string name="prompt">请滑动列表，找到app并开启右侧开关，激活消息通知</string>
+</resources>
